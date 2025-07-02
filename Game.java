@@ -2,7 +2,6 @@ import java.util.Scanner;
 
 /**
 * Game.java
-* @author - Aaron, Jayden, Nisa, Shreya
 * @since November 8th, 2024 
 * The Game class is the class which executes the entire game that the user plays.
 * Using many factors like round number, score, and other classes + their methods, 
