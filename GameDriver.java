@@ -1,5 +1,4 @@
 /** Main class with driver method to begin the primary gameplay loop
-* @author - Jayden, Shreya
 */
 public class GameDriver {
 	/**
