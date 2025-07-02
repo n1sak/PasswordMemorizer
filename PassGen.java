@@ -1,6 +1,5 @@
 /**
 * PassGen.java
-* @author - Aaron, Nisa 
 * @since November 4th, 2024
 * PassGen is a class that generates a password which varies in length depending on the round number
 */ 
