@@ -146,8 +146,8 @@ public class Game
     }
     
     /** 200 new lines printed to conceal the password.
-    * We couldn't find a way to hide a printed statement in the console,
-    * so this was an alternate solution Mrs. Bhatgnar allowed us to perform
+    * I couldn't find a way to hide a printed statement in the console,
+    * so this was an alternate solution
     */
     private void clearConsole(){
         for (int i = 0; i < 200; i++) {
@@ -240,3 +240,4 @@ public class Game
     }
 
 }
+
